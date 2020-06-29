@@ -3,3 +3,4 @@ This repository will contain my personal Data Science and Machine Learning proje
 
 #### 1. Multiple regression - Covid in London MSOAs.
 #### 2. Multiple regression - Predicting the median house price in London
+#### 3. Pubs in London
