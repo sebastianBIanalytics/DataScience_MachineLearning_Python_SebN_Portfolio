@@ -5,4 +5,8 @@ This repository will contain my personal Data Science and Machine Learning proje
 #### 2. Multiple regression - Predicting the median house price in London
 #### 3. Pubs in London DataStore
 #### 3.1. Map of London Pubs
+     https://nbviewer.jupyter.org/github/sebastianBIanalytics/Data_Science_Machine_Learning_Python/blob/master/Map%20of%20London%20Pubs.ipynb
 #### 4. Wine Bar in London 
+     https://nbviewer.jupyter.org/github/advensorBI/Machine-Learning/blob/master/Maps%20only%20wine%20bar.ipynb 
+     
+     
