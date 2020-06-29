@@ -5,3 +5,4 @@ This repository will contain my personal Data Science and Machine Learning proje
 #### 2. Multiple regression - Predicting the median house price in London
 #### 3. Pubs in London DataStore
 #### 3.1. Map of London Pubs
+#### 4. Wine Bar in London 
