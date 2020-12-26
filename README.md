@@ -1,4 +1,4 @@
-# DS_ML_Python_SN_Portfolio
+# DS_ML_Python_SN_Portfolio (Notebook folder)
 This repository will contain my personal Data Science and Machine Learning projects created in Python
 
 Data_Science_Machine_Learning_Python/ Notebook
