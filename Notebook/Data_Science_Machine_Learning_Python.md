@@ -14,5 +14,6 @@ This repository will contain my personal Data Science and Machine Learning proje
      https://nbviewer.jupyter.org/github/advensorBI/Machine-Learning/blob/master/Maps%20only%20wine%20bar.ipynb 
      
 #### 5. Predicting Mayor of London elections 2016 at LSOA level. 
-     5.1. Older version 
-     5.2. Updated version 
+     5.1. Feature engineering for this dataset 
+     5.2. Older version 
+     5.3. Updated version 
